@@ -1,4 +1,3 @@
-# himanshu
 Hi there, it's Himanshu here.
 
 Who am I:
