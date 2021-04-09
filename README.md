@@ -1,11 +1,11 @@
-Hi there, it's Himanshu here.
+#Hi there, it's Himanshu here.
 
-Who am I:
-  Working In TCS 
-  Aspiring AI Researcher
+#Who am I:
+  * Working In TCS 
+  * Aspiring AI Researcher
  
- Skills:
-   Python
+ #Skills:
+   *Python
    Internet of Things (IoT)
    ML and DL Models
 
