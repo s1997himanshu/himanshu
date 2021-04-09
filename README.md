@@ -10,4 +10,4 @@ Who am I:
    Internet of Things (IoT)
    ML and DL Models
 
-#Looking to collaborate to people so we can work together on SOTA technics.
+#Looking to collaborate to people so we can work together on SOTA technologies.
