@@ -2,11 +2,12 @@ Hi there, it's Himanshu here.
 
 Who am I:
   * Working In TCS 
-  * Aspiring AI Researcher
+  * Aspiring data scientist
  
  Skills:
    * Python
-   * Internet of Things (IoT)
    * ML and DL Models
+   * Cloud
+   * Big Data
 
-#Looking to collaborate to people so we can work together on SOTA technologies.
+#Looking to collaborate to people so we can work together on State of art technologies.
